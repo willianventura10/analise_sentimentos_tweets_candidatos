@@ -40,7 +40,7 @@
 </p>
 
 ## :bulb: Considerações finais
-<td><p align=justify>Analisando os resultados obtidos neste projeto apresentado através do Dashboard, podemos fazer algumas breves considerações: </p></td>
+<td><p align=justify>Analisando os resultados obtidos neste projeto apresentados através do Dashboard, podemos fazer algumas breves considerações: </p></td>
 <td><p align=justify>1 - Destaca-se o fato do candidato Jair Bolsonaro ser o único dos candidatos a apresentar o número de tweets classificados como 'negativo' superior aos classificados como 'positivo'. Essa informação coaduna com o fato do atual Presidente ter atualmente o maior índice de rejeição dentre os candidatos à presidência conforme as últimas pesquisas divulgadas*.  </p></td>
 <td><p align=justify>2 - O percentual de tweets classificados como 'neutro' chama a atenção (mais de 50%), isso talvez tenha ocorrido devido à limitação do algoritmo em 'compreender' expressões digitadas incorretamente, palavras com duplo sentido ou acompanhadas de emojis necessários à compreensão do tweet, etc.  </p></td>
 <td><p align=justify>3 - As palavras mais frequentes nos tweets dos candidatos, referem-se sobretudo aos entrevistadores e aos outros candidatos.  </p></td>
