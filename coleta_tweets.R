@@ -17,7 +17,7 @@ df = data.frame(matrix(
   stringsAsFactors=F)
 
 #Adiciona tweets ao DF
-tweetdata <- baixa_tt("candidato",5)
+tweetdata <- baixa_tt("candidato",2500)
 df <- rbind(df,tweetdata)
 df <- apply(df,2,as.character)
 df<-data.frame(df)
