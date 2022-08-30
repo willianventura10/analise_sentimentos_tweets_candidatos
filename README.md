@@ -1,7 +1,7 @@
-<h1 align="middle">Análise de sentimentos e nuvem de palavras dos tweets postados durante as entrevistas dos candidatos à Presidência da República no Jornal Nacional</h1>
+<h1 align=justify>Análise de sentimentos e nuvem de palavras dos tweets postados durante as entrevistas dos candidatos à Presidência da República no Jornal Nacional</h1>
 
 <p align="center">
-  <img src="Imagens/IMG01.jpeg">
+  <img src="imagens/IMG01.jpeg">
 </p>
 
 # Índice
@@ -36,7 +36,7 @@
 <td><p align=justify>O Dashboard foi elaborado utilizando o Power Bi como ferramenta principal (tendo auxílio do Figma apenas para uma pequena melhoria visual), onde foram importados os dados das etapas anteriores e montados os gráficos. Para a nuvem de palavras foi utilizada linguagem R e o pacote 'wordcloud', foram consideradas palavras com frequência igual ou superior a 50 . </p></td>
 
 <p align="center">
-  <img src="Imagens/IMG02.jpeg">
+  <img src="imagens/IMG02.jpeg">
 </p>
 
 ## :bulb: Considerações finais
